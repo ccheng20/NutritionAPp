@@ -1,0 +1,44 @@
+{
+	"vegetables": [
+		{
+			"name": "tomato",
+			"calories": "20",
+			"servingSize": "1",
+			"nutrition": {
+				"protein": "1g",
+				"carbohydrate": "3g",
+				"fat": "4g"
+			}
+		},
+		{
+			"name": "potato",
+			"calories": "20",
+			"servingSize": "1",
+			"nutrition": {
+				"protein": "1g",
+				"carbohydrate": "3g",
+				"fat": "4g"
+			}
+		},
+		{
+			"name": "broccoli",
+			"calories": "20",
+			"servingSize": "1",
+			"nutrition": {
+				"protein": "1g",
+				"carbohydrate": "3g",
+				"fat": "4g"
+			}
+		},
+		{
+			"name": "Asian greens",
+			"calories": "20",
+			"servingSize": "1",
+			"nutrition": {
+				"protein": "1g",
+				"carbohydrate": "3g",
+				"fat": "4g"
+			}
+		}
+	]
+}
